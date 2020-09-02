@@ -1,0 +1,391 @@
+https://www.vodafone.co.uk/good-stuff and 200
+https://www.vodafone.co.uk/help-and-information/cancel-your-account and 200
+https://www.vodafone.co.uk/help-and-information/complaints and 200
+https://www.vodafone.co.uk/help-and-information/complaints/code-of-practice and 200
+https://www.vodafone.co.uk/help-and-information/costs-and-charges and 200
+https://www.vodafone.co.uk/help-and-information/costs-and-charges/call-and-text-charges and 301
+https://www.vodafone.co.uk/help-and-information/costs-and-charges/data-charges and 200
+https://www.vodafone.co.uk/help-and-information/managing-your-data-usage and 200
+https://www.vodafone.co.uk/help-and-information/service-guarantee and 301
+https://www.vodafone.co.uk/help-and-information/tech-team and 200
+https://www.vodafone.co.uk/help-and-information/unlocking-your-phone and 200
+https://www.vodafone.co.uk/mobile and 200
+https://www.vodafone.co.uk/mobile/advance-cache/ui and 404
+https://www.vodafone.co.uk/mobile/best-for and 200
+https://www.vodafone.co.uk/mobile/best-for/battery-life and 200
+https://www.vodafone.co.uk/mobile/best-for/big-buttons and 200
+https://www.vodafone.co.uk/mobile/best-for/budget and 200
+https://www.vodafone.co.uk/mobile/best-for/business and 301
+https://www.vodafone.co.uk/mobile/best-for/camera-phones and 200
+https://www.vodafone.co.uk/mobile/best-for/easy-access and 301
+https://www.vodafone.co.uk/mobile/best-for/festivals and 200
+https://www.vodafone.co.uk/mobile/best-for/fitness and 200
+https://www.vodafone.co.uk/mobile/best-for/gaming and 200
+https://www.vodafone.co.uk/mobile/best-for/kids-and-teenagers and 200
+https://www.vodafone.co.uk/mobile/best-for/kids-tablets and 200
+https://www.vodafone.co.uk/mobile/best-for/music and 200
+https://www.vodafone.co.uk/mobile/best-for/rugged and 200
+https://www.vodafone.co.uk/mobile/best-for/small-phones and 200
+https://www.vodafone.co.uk/mobile/best-for/the-5-best-waterproof-phones-of-2018 and 404
+https://www.vodafone.co.uk/mobile/best-for/touch-screens and 200
+https://www.vodafone.co.uk/mobile/best-for/under-100 and 200
+https://www.vodafone.co.uk/mobile/best-for/under-200 and 200
+https://www.vodafone.co.uk/mobile/best-for/under-300 and 200
+https://www.vodafone.co.uk/mobile/best-for/video and 200
+https://www.vodafone.co.uk/mobile/best-for/virtual-reality and 200
+https://www.vodafone.co.uk/mobile/best-for/waterproof and 200
+https://www.vodafone.co.uk/mobile/brands and 200
+https://www.vodafone.co.uk/mobile/brands/android-one and 301
+https://www.vodafone.co.uk/mobile/brands/apple and 200
+https://www.vodafone.co.uk/mobile/brands/google and 200
+https://www.vodafone.co.uk/mobile/brands/Huawei and 200
+https://www.vodafone.co.uk/mobile/brands/Nokia and 200
+https://www.vodafone.co.uk/mobile/brands/Samsung and 200
+https://www.vodafone.co.uk/mobile/brands/Sony and 200
+https://www.vodafone.co.uk/mobile/brands/Vodafone and 200
+https://www.vodafone.co.uk/mobile/brands-applewatch and 404
+https://www.vodafone.co.uk/mobile/choose-vodafone and 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/connect-friends and 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/help-a-friend and 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/products-and-services and 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/refer-business and 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/treat-friends and 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/why-vodafone and 200
+https://www.vodafone.co.uk/mobile/coming-soon and 200
+https://www.vodafone.co.uk/mobile/coming-soon-mockup and 404
+https://www.vodafone.co.uk/mobile/deals-and-offers and 200
+https://www.vodafone.co.uk/mobile/deals-and-offers/clearance-deals and 200
+https://www.vodafone.co.uk/mobile/deals-and-offers/nearly-new and 301
+https://www.vodafone.co.uk/mobile/digital-parenting and 200
+https://www.vodafone.co.uk/mobile/discounts and 200
+https://www.vodafone.co.uk/mobile/discounts/student-discount and 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage and 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage/mod and 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage/nhs and 200
+https://www.vodafone.co.uk/mobile/existing-customers and 200
+https://www.vodafone.co.uk/mobile/extras and 200
+https://www.vodafone.co.uk/mobile/franchise and 200
+https://www.vodafone.co.uk/good-stuff 200
+https://www.vodafone.co.uk/help-and-information/cancel-your-account 200
+https://www.vodafone.co.uk/help-and-information/complaints 200
+https://www.vodafone.co.uk/help-and-information/complaints/code-of-practice 200
+https://www.vodafone.co.uk/help-and-information/costs-and-charges 200
+https://www.vodafone.co.uk/help-and-information/costs-and-charges/call-and-text-charges 301
+https://www.vodafone.co.uk/help-and-information/costs-and-charges/data-charges 200
+https://www.vodafone.co.uk/help-and-information/managing-your-data-usage 200
+https://www.vodafone.co.uk/help-and-information/service-guarantee 301
+https://www.vodafone.co.uk/help-and-information/tech-team 200
+https://www.vodafone.co.uk/help-and-information/unlocking-your-phone 200
+https://www.vodafone.co.uk/mobile 200
+https://www.vodafone.co.uk/mobile/advance-cache/ui 404
+https://www.vodafone.co.uk/mobile/best-for 200
+https://www.vodafone.co.uk/mobile/best-for/battery-life 200
+https://www.vodafone.co.uk/mobile/best-for/big-buttons 200
+https://www.vodafone.co.uk/mobile/best-for/budget 200
+https://www.vodafone.co.uk/mobile/best-for/business 301
+https://www.vodafone.co.uk/mobile/best-for/camera-phones 200
+https://www.vodafone.co.uk/mobile/best-for/easy-access 301
+https://www.vodafone.co.uk/mobile/best-for/festivals 200
+https://www.vodafone.co.uk/mobile/best-for/fitness 200
+https://www.vodafone.co.uk/mobile/best-for/gaming 200
+https://www.vodafone.co.uk/mobile/best-for/kids-and-teenagers 200
+https://www.vodafone.co.uk/mobile/best-for/kids-tablets 200
+https://www.vodafone.co.uk/mobile/best-for/music 200
+https://www.vodafone.co.uk/mobile/best-for/rugged 200
+https://www.vodafone.co.uk/mobile/best-for/small-phones 200
+https://www.vodafone.co.uk/mobile/best-for/the-5-best-waterproof-phones-of-2018 404
+https://www.vodafone.co.uk/mobile/best-for/touch-screens 200
+https://www.vodafone.co.uk/mobile/best-for/under-100 200
+https://www.vodafone.co.uk/mobile/best-for/under-200 200
+https://www.vodafone.co.uk/mobile/best-for/under-300 200
+https://www.vodafone.co.uk/mobile/best-for/video 200
+https://www.vodafone.co.uk/mobile/best-for/virtual-reality 200
+https://www.vodafone.co.uk/mobile/best-for/waterproof 200
+https://www.vodafone.co.uk/mobile/brands 200
+https://www.vodafone.co.uk/mobile/brands/android-one 301
+https://www.vodafone.co.uk/mobile/brands/apple 200
+https://www.vodafone.co.uk/mobile/brands/google 200
+https://www.vodafone.co.uk/mobile/brands/Huawei 200
+https://www.vodafone.co.uk/mobile/brands/Nokia 200
+https://www.vodafone.co.uk/mobile/brands/Samsung 200
+https://www.vodafone.co.uk/mobile/brands/Sony 200
+https://www.vodafone.co.uk/mobile/brands/Vodafone 200
+https://www.vodafone.co.uk/mobile/brands-applewatch 404
+https://www.vodafone.co.uk/mobile/choose-vodafone 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/connect-friends 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/help-a-friend 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/products-and-services 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/refer-business 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/treat-friends 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/why-vodafone 200
+https://www.vodafone.co.uk/mobile/coming-soon 200
+https://www.vodafone.co.uk/mobile/coming-soon-mockup 404
+https://www.vodafone.co.uk/mobile/deals-and-offers 200
+https://www.vodafone.co.uk/mobile/deals-and-offers/clearance-deals 200
+https://www.vodafone.co.uk/mobile/deals-and-offers/nearly-new 301
+https://www.vodafone.co.uk/mobile/digital-parenting 200
+https://www.vodafone.co.uk/mobile/discounts 200
+https://www.vodafone.co.uk/mobile/discounts/student-discount 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage/mod 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage/nhs 200
+https://www.vodafone.co.uk/mobile/existing-customers 200
+https://www.vodafone.co.uk/mobile/extras 200
+https://www.vodafone.co.uk/mobile/franchise 200
+https://www.vodafone.co.uk/mobile/franchise/how-it-works 200
+https://www.vodafone.co.uk/mobile/franchise/steps-to-becoming-a-partner-agent 200
+https://www.vodafone.co.uk/mobile/franchise/why-become-a-partner-agent 200
+https://www.vodafone.co.uk/mobile/ipads-and-tablets 200
+https://www.vodafone.co.uk/mobile/music-tv-and-sport 200
+https://www.vodafone.co.uk/mobile/music-tv-and-sport/now-tv 301
+https://www.vodafone.co.uk/mobile/music-tv-and-sport/prime-video 301
+https://www.vodafone.co.uk/mobile/music-tv-and-sport/sky-sports-mobile-tv 301
+https://www.vodafone.co.uk/mobile/music-tv-and-sport/spotify 301
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans 301
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans/big-value-bundles 301
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans/payg-1 200
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans/payg-1-switch 200
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans/payg-1-switch-1 200
+https://www.vodafone.co.uk/mobile/pay-monthly 200
+https://www.vodafone.co.uk/mobile/pay-monthly/red-entertainment 301
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/chat-pass 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/combo-pass 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/music-pass 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/social-pass 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/video-pass 200
+https://www.vodafone.co.uk/mobile/sales-campaigns 301
+https://www.vodafone.co.uk/mobile/sim-only-deals/cheap 200
+https://www.vodafone.co.uk/mobile/sim-only-deals/international-sim-cards 200
+https://www.vodafone.co.uk/mobile/sim-only-deals/multi-sim-card-sizes 200
+https://www.vodafone.co.uk/mobile/summer-data-giveaway 301
+https://www.vodafone.co.uk/mobile/sustainable-business/technology-for-society 200
+https://www.vodafone.co.uk/mobile/vodafone-insurance 200
+https://www.vodafone.co.uk/mobile/vodafone-techstarter 200
+https://www.vodafone.co.uk/mobile/vodafone-trade-in 200
+https://www.vodafone.co.uk/my-vodafone-account 200
+https://www.vodafone.co.uk/my-vodafone-account/additional-plans 200
+https://www.vodafone.co.uk/my-vodafone-account/billing-and-payments 200
+https://www.vodafone.co.uk/my-vodafone-account/billing-and-payments/charge-to-bill 200
+https://www.vodafone.co.uk/my-vodafone-account/billing-and-payments/vodafone-spend-manager 200
+https://www.vodafone.co.uk/my-vodafone-account/billing-and-payments/your-vodafone-bill-explained 200
+https://www.vodafone.co.uk/my-vodafone-account/keep-my-number 200
+https://www.vodafone.co.uk/my-vodafone-account/orders/delivery 200
+https://www.vodafone.co.uk/my-vodafone-account/orders/returns 200
+https://www.vodafone.co.uk/my-vodafone-account/pay-as-you-go-top-up 200
+https://www.vodafone.co.uk/my-vodafone-account/upgrade-advance 200
+https://www.vodafone.co.uk/my-vodafone-account/upgrade-early 200
+https://www.vodafone.co.uk/my-vodafone-account/upgrades 200
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps 200
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/free500 301
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/july-prize-draw 301
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/my-vodafone-app 200
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/vodafone-start 404
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/Vodafone-Treats 301
+https://www.vodafone.co.uk/network 200
+https://www.vodafone.co.uk/network/calling-features 200
+https://www.vodafone.co.uk/network/calling-features/rural-open-sure-signal 404
+https://www.vodafone.co.uk/network/calling-features/sure-signal 200
+https://www.vodafone.co.uk/network/calling-features/wi-fi-calling 200
+https://www.vodafone.co.uk/network/data-features 200
+https://www.vodafone.co.uk/network/data-features/securenet 200
+https://www.vodafone.co.uk/network/messaging-features 200
+https://www.vodafone.co.uk/network/network-improvements 200
+https://www.vodafone.co.uk/network/network-satisfaction-guarantee 404
+https://www.vodafone.co.uk/privacy 200
+https://www.vodafone.co.uk/privacy/apps 200
+https://www.vodafone.co.uk/privacy/credit-checks 200
+https://www.vodafone.co.uk/privacy/home-broadband-and-phone 200
+https://www.vodafone.co.uk/privacy/iot 200
+https://www.vodafone.co.uk/privacy/mobile 200
+https://www.vodafone.co.uk/privacy/mobile-devices 200
+https://www.vodafone.co.uk/privacy/protecting-you 200
+https://www.vodafone.co.uk/privacy/protecting-you/blocked-number-ranges 200
+https://www.vodafone.co.uk/privacy/protecting-you/mobile-security 200
+https://www.vodafone.co.uk/privacy/protecting-you/nuisance-calls-and-texts 200
+https://www.vodafone.co.uk/privacy/protecting-you/payment-card-security 200
+https://www.vodafone.co.uk/privacy/protecting-you/phishing 200
+https://www.vodafone.co.uk/privacy/protecting-you/protecting-your-identity 200
+https://www.vodafone.co.uk/privacy/protecting-you/reporting-suspected-fraud 200
+https://www.vodafone.co.uk/privacy/protecting-you/wangiri-fraud 200
+https://www.vodafone.co.uk/privacy/vodafone-analytics 200
+https://www.vodafone.co.uk/privacy/your-privacy-rights 200
+https://www.vodafone.co.uk/vodafone-international-sim-card 404
+https://www.vodafone.co.uk/mobile/digital-parenting/social-media-pressure 301
+https://www.vodafone.co.uk/mobile/digital-parenting/help-online 200
+https://www.vodafone.co.uk/mobile/digital-parenting/grooming 404
+https://www.vodafone.co.uk/mobile/digital-parenting/sleep 301
+https://www.vodafone.co.uk/mobile/digital-parenting/screen-time 301
+https://www.vodafone.co.uk/mobile/digital-parenting/safety-and-wellbeing 301
+https://www.vodafone.co.uk/mobile/digital-parenting/peer-pressure 301
+https://www.vodafone.co.uk/mobile/digital-parenting/harmful-sexual-content 301
+https://www.vodafone.co.uk/mobile/digital-parenting/gaming 301
+https://www.vodafone.co.uk/mobile/digital-parenting/fake-news 301
+https://www.vodafone.co.uk/mobile/digital-parenting/digital-life 301
+https://www.vodafone.co.uk/mobile/digital-parenting/cyber-bullying 301
+https://www.vodafone.co.uk/mobile/digital-parenting/archive 301
+https://www.vodafone.co.uk/mobile/digital-parenting 200
+https://www.vodafone.co.uk/mobile/sustainable-business/technology-for-society 200
+ 
+https://www.vodafone.co.uk/good-stuff - 200
+https://www.vodafone.co.uk/help-and-information/cancel-your-account - 200
+https://www.vodafone.co.uk/help-and-information/complaints - 200
+https://www.vodafone.co.uk/help-and-information/complaints/code-of-practice - 200
+https://www.vodafone.co.uk/help-and-information/costs-and-charges - 200
+https://www.vodafone.co.uk/help-and-information/costs-and-charges/call-and-text-charges - 301
+https://www.vodafone.co.uk/help-and-information/costs-and-charges/data-charges - 200
+https://www.vodafone.co.uk/help-and-information/managing-your-data-usage - 200
+https://www.vodafone.co.uk/help-and-information/service-guarantee - 301
+https://www.vodafone.co.uk/help-and-information/tech-team - 200
+https://www.vodafone.co.uk/help-and-information/unlocking-your-phone - 200
+https://www.vodafone.co.uk/mobile - 200
+https://www.vodafone.co.uk/mobile/advance-cache/ui - 404
+https://www.vodafone.co.uk/mobile/best-for - 200
+https://www.vodafone.co.uk/mobile/best-for/battery-life - 200
+https://www.vodafone.co.uk/mobile/best-for/big-buttons - 200
+https://www.vodafone.co.uk/mobile/best-for/budget - 200
+https://www.vodafone.co.uk/mobile/best-for/business - 301
+https://www.vodafone.co.uk/mobile/best-for/camera-phones - 200
+https://www.vodafone.co.uk/mobile/best-for/easy-access - 301
+https://www.vodafone.co.uk/mobile/best-for/festivals - 200
+https://www.vodafone.co.uk/mobile/best-for/fitness - 200
+https://www.vodafone.co.uk/mobile/best-for/gaming - 200
+https://www.vodafone.co.uk/mobile/best-for/kids-and-teenagers - 200
+https://www.vodafone.co.uk/mobile/best-for/kids-tablets - 200
+https://www.vodafone.co.uk/mobile/best-for/music - 200
+https://www.vodafone.co.uk/mobile/best-for/rugged - 200
+https://www.vodafone.co.uk/mobile/best-for/small-phones - 200
+https://www.vodafone.co.uk/mobile/best-for/the-5-best-waterproof-phones-of-2018 - 404
+https://www.vodafone.co.uk/mobile/best-for/touch-screens - 200
+https://www.vodafone.co.uk/mobile/best-for/under-100 - 200
+https://www.vodafone.co.uk/mobile/best-for/under-200 - 200
+https://www.vodafone.co.uk/mobile/best-for/under-300 - 200
+https://www.vodafone.co.uk/mobile/best-for/video - 200
+https://www.vodafone.co.uk/mobile/best-for/virtual-reality - 200
+https://www.vodafone.co.uk/mobile/best-for/waterproof - 200
+https://www.vodafone.co.uk/mobile/brands - 200
+https://www.vodafone.co.uk/mobile/brands/android-one - 301
+https://www.vodafone.co.uk/mobile/brands/apple - 200
+https://www.vodafone.co.uk/mobile/brands/google - 200
+https://www.vodafone.co.uk/mobile/brands/Huawei - 200
+https://www.vodafone.co.uk/mobile/brands/Nokia - 200
+https://www.vodafone.co.uk/mobile/brands/Samsung - 200
+https://www.vodafone.co.uk/mobile/brands/Sony - 200
+https://www.vodafone.co.uk/mobile/brands/Vodafone - 200
+https://www.vodafone.co.uk/mobile/brands-applewatch - 404
+https://www.vodafone.co.uk/mobile/choose-vodafone - 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/connect-friends - 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/help-a-friend - 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/products-and-services - 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/refer-business - 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/treat-friends - 200
+https://www.vodafone.co.uk/mobile/choose-vodafone/why-vodafone - 200
+https://www.vodafone.co.uk/mobile/coming-soon - 200
+https://www.vodafone.co.uk/mobile/coming-soon-mockup - 404
+https://www.vodafone.co.uk/mobile/deals-and-offers - 200
+https://www.vodafone.co.uk/mobile/deals-and-offers/clearance-deals - 200
+https://www.vodafone.co.uk/mobile/deals-and-offers/nearly-new - 301
+https://www.vodafone.co.uk/mobile/digital-parenting - 200
+https://www.vodafone.co.uk/mobile/discounts - 200
+https://www.vodafone.co.uk/mobile/discounts/student-discount - 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage - 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage/mod - 200
+https://www.vodafone.co.uk/mobile/discounts/vodafone-advantage/nhs - 200
+https://www.vodafone.co.uk/mobile/existing-customers - 200
+https://www.vodafone.co.uk/mobile/extras - 200
+https://www.vodafone.co.uk/mobile/franchise - 200
+https://www.vodafone.co.uk/mobile/franchise/how-it-works - 200
+https://www.vodafone.co.uk/mobile/franchise/steps-to-becoming-a-partner-agent - 200
+https://www.vodafone.co.uk/mobile/franchise/why-become-a-partner-agent - 200
+https://www.vodafone.co.uk/mobile/ipads-and-tablets - 200
+https://www.vodafone.co.uk/mobile/music-tv-and-sport - 200
+https://www.vodafone.co.uk/mobile/music-tv-and-sport/now-tv - 301
+https://www.vodafone.co.uk/mobile/music-tv-and-sport/prime-video - 301
+https://www.vodafone.co.uk/mobile/music-tv-and-sport/sky-sports-mobile-tv - 301
+https://www.vodafone.co.uk/mobile/music-tv-and-sport/spotify - 301
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans - 301
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans/big-value-bundles - 301
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans/payg-1 - 200
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans/payg-1-switch - 200
+https://www.vodafone.co.uk/mobile/pay-as-you-go-plans/payg-1-switch-1 - 200
+https://www.vodafone.co.uk/mobile/pay-monthly - 200
+https://www.vodafone.co.uk/mobile/pay-monthly/red-entertainment - 301
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes - 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/chat-pass - 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/combo-pass - 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/music-pass - 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/social-pass - 200
+https://www.vodafone.co.uk/mobile/pay-monthly/vodafone-passes/video-pass - 200
+https://www.vodafone.co.uk/mobile/sales-campaigns - 301
+https://www.vodafone.co.uk/mobile/sim-only-deals/cheap - 200
+https://www.vodafone.co.uk/mobile/sim-only-deals/international-sim-cards - 200
+https://www.vodafone.co.uk/mobile/sim-only-deals/multi-sim-card-sizes - 200
+https://www.vodafone.co.uk/mobile/summer-data-giveaway - 301
+https://www.vodafone.co.uk/mobile/sustainable-business/technology-for-society - 200
+https://www.vodafone.co.uk/mobile/vodafone-insurance - 200
+https://www.vodafone.co.uk/mobile/vodafone-techstarter - 200
+https://www.vodafone.co.uk/mobile/vodafone-trade-in - 200
+https://www.vodafone.co.uk/my-vodafone-account - 200
+https://www.vodafone.co.uk/my-vodafone-account/additional-plans - 200
+https://www.vodafone.co.uk/my-vodafone-account/billing-and-payments - 200
+https://www.vodafone.co.uk/my-vodafone-account/billing-and-payments/charge-to-bill - 200
+https://www.vodafone.co.uk/my-vodafone-account/billing-and-payments/vodafone-spend-manager - 000
+https://www.vodafone.co.uk/my-vodafone-account/billing-and-payments/your-vodafone-bill-explained - 200
+https://www.vodafone.co.uk/my-vodafone-account/keep-my-number - 200
+https://www.vodafone.co.uk/my-vodafone-account/orders/delivery - 200
+https://www.vodafone.co.uk/my-vodafone-account/orders/returns - 200
+https://www.vodafone.co.uk/my-vodafone-account/pay-as-you-go-top-up - 200
+https://www.vodafone.co.uk/my-vodafone-account/upgrade-advance - 200
+https://www.vodafone.co.uk/my-vodafone-account/upgrade-early - 200
+https://www.vodafone.co.uk/my-vodafone-account/upgrades - 200
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps - 200
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/free500 - 301
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/july-prize-draw - 301
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/my-vodafone-app - 200
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/vodafone-start - 404
+https://www.vodafone.co.uk/my-vodafone-account/vodafone-apps/Vodafone-Treats - 301
+https://www.vodafone.co.uk/network - 200
+https://www.vodafone.co.uk/network/calling-features - 200
+https://www.vodafone.co.uk/network/calling-features/rural-open-sure-signal - 404
+https://www.vodafone.co.uk/network/calling-features/sure-signal - 200
+https://www.vodafone.co.uk/network/calling-features/wi-fi-calling - 200
+https://www.vodafone.co.uk/network/data-features - 200
+https://www.vodafone.co.uk/network/data-features/securenet - 200
+https://www.vodafone.co.uk/network/messaging-features - 200
+https://www.vodafone.co.uk/network/network-improvements - 200
+https://www.vodafone.co.uk/network/network-satisfaction-guarantee - 404
+https://www.vodafone.co.uk/privacy - 200
+https://www.vodafone.co.uk/privacy/apps - 200
+https://www.vodafone.co.uk/privacy/credit-checks - 200
+https://www.vodafone.co.uk/privacy/home-broadband-and-phone - 200
+https://www.vodafone.co.uk/privacy/iot - 200
+https://www.vodafone.co.uk/privacy/mobile - 200
+https://www.vodafone.co.uk/privacy/mobile-devices - 200
+https://www.vodafone.co.uk/privacy/protecting-you - 200
+https://www.vodafone.co.uk/privacy/protecting-you/blocked-number-ranges - 200
+https://www.vodafone.co.uk/privacy/protecting-you/mobile-security - 200
+https://www.vodafone.co.uk/privacy/protecting-you/nuisance-calls-and-texts - 200
+https://www.vodafone.co.uk/privacy/protecting-you/payment-card-security - 200
+https://www.vodafone.co.uk/privacy/protecting-you/phishing - 200
+https://www.vodafone.co.uk/privacy/protecting-you/protecting-your-identity - 200
+https://www.vodafone.co.uk/privacy/protecting-you/reporting-suspected-fraud - 200
+https://www.vodafone.co.uk/privacy/protecting-you/wangiri-fraud - 200
+https://www.vodafone.co.uk/privacy/vodafone-analytics - 200
+https://www.vodafone.co.uk/privacy/your-privacy-rights - 200
+https://www.vodafone.co.uk/vodafone-international-sim-card - 404
+https://www.vodafone.co.uk/mobile/digital-parenting/social-media-pressure - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/help-online - 200
+https://www.vodafone.co.uk/mobile/digital-parenting/grooming - 404
+https://www.vodafone.co.uk/mobile/digital-parenting/sleep - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/screen-time - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/safety-and-wellbeing - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/peer-pressure - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/harmful-sexual-content - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/gaming - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/fake-news - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/digital-life - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/cyber-bullying - 301
+https://www.vodafone.co.uk/mobile/digital-parenting/archive - 301
+https://www.vodafone.co.uk/mobile/digital-parenting - 200
+https://www.vodafone.co.uk/mobile/sustainable-business/technology-for-society - 200
+ - 
