@@ -5,6 +5,8 @@ Steps:
 1. Download the repo.
 2. In the url txt file add all the url you need to add.
 3. In the newfile you'll find the output.
+4. run the sript.sh
+5. Output in newfile
 
 Example:  Google.co.in - 200
 
